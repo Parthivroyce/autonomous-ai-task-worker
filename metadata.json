@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Finance Employee",
+  "description": "An agent that turns a natural-language finance task into verified completed work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
